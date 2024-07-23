@@ -3,4 +3,3 @@ https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleNoChinaCDNRules.conf
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleRules.conf
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleUpdateRules.conf
-https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf
