@@ -1,2 +1,1 @@
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt
-https://raw.githubusercontent.com/tangnahuaite/rule_script/main/rule_script/Surge/AD-patch/AD-patch.list
