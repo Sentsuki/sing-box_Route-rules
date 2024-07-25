@@ -4,3 +4,5 @@ https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleRules.conf
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleUpdateRules.conf
 https://raw.githubusercontent.com/Sentsuki/sing-box_Route-rules/main/data/MicrosoftCDN.txt
+https://raw.githubusercontent.com/Z-Siqi/Clash-for-Windows_Rule/main/Rule/Skype
+https://raw.githubusercontent.com/Z-Siqi/Clash-for-Windows_Rule/main/Rule/Zoom
