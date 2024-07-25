@@ -1,0 +1,6 @@
+- DOMAIN-SUFFIX,cloudapp.net,Skype
+- DOMAIN-SUFFIX,lync.com,Skype
+- DOMAIN-SUFFIX,sfbassets.com,Skype
+- DOMAIN-SUFFIX,skype.com,Skype
+- DOMAIN-SUFFIX,skypeassets.com,Skype
+- DOMAIN-SUFFIX,skypeforbusiness.com,Skype
